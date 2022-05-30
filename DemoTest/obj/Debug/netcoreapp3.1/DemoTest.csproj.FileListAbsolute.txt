@@ -1,0 +1,14 @@
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.exe
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.deps.json
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.dll
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.pdb
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.csproj.AssemblyReference.cache
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.dll
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.pdb
+F:\ContentDevelopment\IIHT\Jenkin\Demos\DemoJenkin\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.genruntimeconfig.cache
